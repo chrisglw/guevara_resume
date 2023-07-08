@@ -1,89 +1,89 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Christian Guevara's Resume
 ---
 # Christian Guevara
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Computer science student.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="chrisguevaraa@gmail.com">chrisguevaraa@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/guevarachristian/">LinkedIn</a>
+| <a href="https://github.com/chrisglw">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
+- Pursuing Bachelor's degree in Computer Science
+- 3.8 Major GPA
 
-- 4.0 Major GPA
 
+## Experience 
 
-## Related Experience
+### Entrepreneur and Business Manager
 
-### Internships
+`August 2022 - Present`
+__Self-owned Business__, Entrepreneur 
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Founded and currently manage a small business while balancing rigorous academic responsibilities.
+- Created a MySQL database system for efficient inventory management, customer data storage, and order processing effectively.
+- Developed key business skills including strategic planning, problem-solving, time management, and multitasking in a real-world setting.
+- Utilized social media platforms to advertise services, resulting in substantial business growth and increased customer engagement.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Work Experience
 
-### Data Science Lead
+`July 2022 - September 2022`
+__Craigland Properties, L.L.C.__, Maintenance Worker
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Effectively conducted building repairs and maintenance tasks, gaining a practical understanding of repair techniques.
+- Contributed to restoration projects by working with various materials including concrete and asphalt, enhancing the overall aesthetic and functionality of the property.
+- Implemented effective strategies for inventory management and organized back storage.
 
 `September 2027 - April 2028`
-__Good2Go__, Consultant
+__CVS Pharmacy__, Front Store Shift Supervisor
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Successfully managed morning shifts, opening the store, counting money from the previous night, and ensuring the store was ready for the day's business.
+- Led and managed shift teams, fostering a positive work environment that prioritized top-quality customer service.
+- Handled banking deposits, maintained accurate inventory records, and received orders, contributing to seamless store operations and effective financial management.
+- Organized back inventory and restocked shelves as required, ensuring products were always available to customers.
 
-### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`January 2020 - April 2027`
+__Local Italian Restaurant__, Kitchen Support and Preparation Specialist
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Adapted to a high-demand restaurant environment, washing dishes and assisting with food preparation to support kitchen staff.
+- Fostered a collaborative work environment, enhancing teamwork and communication skills while maintaining high standards of cleanliness and orderliness in the kitchen and basement. 
 
 `April 2027 - July 2027`
-__Pinnacle Management Group__, 
+__Call Center__, Floor Support Specialist
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Provided critical problem-solving support to agents in a high-pressure environment, enabling effective resolution of customer issues.
+- Developed and refined communication skills, devising strategies to deal with complex customer issues and providing high-quality service.
 
 
-## Service and Work History
+## Volunteer Experience
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Personal Trainer__, Atlas GYM
+- Provided personalized training and fitness consultation to a diverse clientele, leveraging knowledge of exercise physiology and nutrition.
+- Designed and implemented customized workout plans tailored to individual client goals, fitness levels, and health conditions.
+- Conducted regular evaluations to assess client progress and adjust workouts as necessary.
+- Promoted the gym's services, resulting in increased membership sales and client retention.
+- Ensured the gym environment remained clean, safe, and welcoming for all patrons.
 
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+__Spanish Conversation Lab Volunteer__, Brigham Young University-Idaho.
+- Facilitated weekly conversation labs for students learning Spanish, providing an immersive and interactive language learning experience.
+- Utilized advanced Spanish skills to assist students with grammar, vocabulary, and conversational fluency.
+- Developed lesson plans focusing on cultural immersion and real-world language application.
+- Provided constructive feedback and encouragement, assisting students in achieving their language learning goals.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
