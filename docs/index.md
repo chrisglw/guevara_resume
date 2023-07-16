@@ -3,7 +3,7 @@ layout: cv
 title: Christian Guevara's Resume
 ---
 # Christian Guevara
-Computer science student.
+Computer science student
 
 <div id="webaddress">
 <a href="chrisguevaraa@gmail.com">chrisguevaraa@gmail.com</a>
