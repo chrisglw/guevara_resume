@@ -27,7 +27,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Entrepreneur and Business Manager
 
 `August 2022 - Present`
-__Self-owned Business__, Entrepreneur 
+__CG Apparel__, Entrepreneur (Self-owned Business)
 
 - Founded and currently manage a small business while balancing rigorous academic responsibilities.
 - Created a MySQL database system for efficient inventory management, customer data storage, and order processing effectively.
@@ -43,7 +43,7 @@ __Craigland Properties, L.L.C.__, Maintenance Worker
 - Contributed to restoration projects by working with various materials including concrete and asphalt, enhancing the overall aesthetic and functionality of the property.
 - Implemented effective strategies for inventory management and organized back storage.
 
-`September 2027 - April 2028`
+`October 2020 - July 2021`
 __CVS Pharmacy__, Front Store Shift Supervisor
 
 - Successfully managed morning shifts, opening the store, counting money from the previous night, and ensuring the store was ready for the day's business.
@@ -52,13 +52,13 @@ __CVS Pharmacy__, Front Store Shift Supervisor
 - Organized back inventory and restocked shelves as required, ensuring products were always available to customers.
 
 
-`January 2020 - April 2027`
+`January 2020 - July 2021`
 __Local Italian Restaurant__, Kitchen Support and Preparation Specialist
 
 - Adapted to a high-demand restaurant environment, washing dishes and assisting with food preparation to support kitchen staff.
 - Fostered a collaborative work environment, enhancing teamwork and communication skills while maintaining high standards of cleanliness and orderliness in the kitchen and basement. 
 
-`April 2027 - July 2027`
+`October 2017 - July 2018`
 __Call Center__, Floor Support Specialist
 
 - Provided critical problem-solving support to agents in a high-pressure environment, enabling effective resolution of customer issues.
@@ -67,7 +67,7 @@ __Call Center__, Floor Support Specialist
 
 ## Volunteer Experience
 
-`2025-2027`
+`2017`
 __Personal Trainer__, Atlas GYM
 - Provided personalized training and fitness consultation to a diverse clientele, leveraging knowledge of exercise physiology and nutrition.
 - Designed and implemented customized workout plans tailored to individual client goals, fitness levels, and health conditions.
@@ -75,6 +75,7 @@ __Personal Trainer__, Atlas GYM
 - Promoted the gym's services, resulting in increased membership sales and client retention.
 - Ensured the gym environment remained clean, safe, and welcoming for all patrons.
 
+`2023`
 __Spanish Conversation Lab Volunteer__, Brigham Young University-Idaho.
 - Facilitated weekly conversation labs for students learning Spanish, providing an immersive and interactive language learning experience.
 - Utilized advanced Spanish skills to assist students with grammar, vocabulary, and conversational fluency.
